@@ -30,7 +30,7 @@ Face-Detector/
 ```bash
 git clone https://github.com/WorkRabdeepSinghKharbanda/Face-Detector.git
 cd Face-Detector
-pip install opencv-python
+python3 -m pip install opencv-python
 ```
 
 ## Usage
